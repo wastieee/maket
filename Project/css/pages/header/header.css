@@ -1,0 +1,51 @@
+.header{
+
+    padding: 24px 42px;
+
+    font-family: sans-serif;
+
+    color: var(--Carbon-fiber);
+
+    line-height: 1.5;
+
+}
+
+.header__container{
+
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.header__title{
+
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.menu__list{
+
+    display: flex;
+    justify-content: space-between;
+
+    gap: 24px;
+
+    
+}
+
+.menu__link{
+    
+    color: inherit;
+
+    font-weight: 400;
+    font-size: 17px;
+
+
+}
+
+.menu__link:hover{
+
+    border-bottom: 1px solid var(--Carbon-fiber);
+
+}

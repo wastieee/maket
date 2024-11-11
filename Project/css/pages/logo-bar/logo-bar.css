@@ -1,0 +1,53 @@
+.logo-bar__container{
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logo-bar__google{
+
+    padding-top: 46px;
+    padding-bottom: 46px;
+
+}
+
+.logo-bar__google{
+
+    padding-top: 46px;
+    padding-bottom: 46px;
+
+}
+
+
+.logo-bar__nike{
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.logo-bar__samsung{
+
+    padding-top: 56px;
+    padding-bottom: 56px;
+
+}
+
+.logo-bar__apple{
+
+    padding-top: 42px;
+    padding-bottom: 42px;
+
+}
+
+.logo-bar__adidas{
+
+    padding-top: 43px;
+    padding-bottom: 43px;
+    
+}
+
+
+
+

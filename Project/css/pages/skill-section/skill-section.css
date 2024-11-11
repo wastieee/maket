@@ -1,0 +1,141 @@
+.skill-section{
+    
+    font-family: sans-serif;
+
+    color: var(--Carbon-fiber);
+
+}
+
+.skill-section__container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.skill-section__service{
+    display: flex;
+    flex-direction: column;
+
+    text-align: center;
+
+    gap: 12px;
+
+    padding: 64px 42px;
+}
+
+.skill-section__service img{
+   width: 124px;
+   height: auto;
+   margin: 0 auto 30px;
+}
+
+.skill-section__title{
+
+    font-size:27px;
+    line-height: 1.5;
+    font-weight: 600;
+  
+}
+
+.skill-section__text{
+
+
+font-size: 17px;
+line-height: 1.5;
+
+font-weight: 400;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .skill-section{
+    
+    font-family: sans-serif;
+
+    color: var(--Carbon-fiber);
+
+}
+
+.skill-section img{
+
+width: 124px;
+height: 124px;
+
+}
+
+
+.skill-section__container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.skill-section__product-design{
+    font-size:27px;
+    line-height: 1.5;
+    text-align: center;
+    font-weight: 600;
+    padding-top: 42px;    
+}
+
+.skill-section__product-design-text{
+
+font-size: 17px;
+line-height: 1.5;
+text-align: center;
+padding-top: 12px;
+
+}
+
+.skill-section__visual-design{
+
+    font-size:27px;
+    line-height: 1.5;
+    text-align: center;
+    font-weight: 600;
+
+    padding-top: 42px;
+
+}
+
+.skill-section__visual-design-text{
+
+    font-size: 17px;
+    line-height: 1.5;
+    text-align: center;
+
+    padding-top: 12px;
+}
+
+.skill-section__art-direction{
+
+
+}
+
+.skill-section__art-direction-text{
+
+    font-size: 17px;
+    line-height: 1.5;
+    text-align: center;
+    padding-top: 12px;
+}
+
+.skill-section__service{
+
+    padding-top: 106px;
+    padding-left: 159px;
+    padding-bottom: 283px;
+    padding-right: 159px;
+
+} */
